@@ -132,7 +132,7 @@ div.call-circle {
     width: 10rem;
     height: 10rem;
     border-radius: 50%;
-    background: linear-gradient(to right, #E028A2, #F0086B);
+    background: linear-gradient(to right, #432e34, #F0086B);
     color: #fff;
     font-size: 10px;
     display: flex;
@@ -202,7 +202,7 @@ div.hero-sup-text p {
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
-    background: linear-gradient(to right, #E028A2, #F0086B);
+    background: linear-gradient(to right, #432e34, #F0086B);
     padding: .8rem 2.2rem;
     transition: all ease-in-out .2s;
 }
@@ -385,7 +385,7 @@ section#special-artist {
 div.special-artist-container {
     width: 23rem;
     height: 28rem;
-    background: linear-gradient(to right bottom, #E028A2, #F0086B);
+    background: linear-gradient(to right, #432e34, #f00823);
     position: relative;
 }
 
@@ -514,7 +514,7 @@ div.price-card-container {
 
 
 .card {
-    background: linear-gradient(to right top, #E028A2, #F0086B);
+    background: linear-gradient(to right, #432e34, #f00823);
     width: 32rem;
     height: auto;
     margin-top: 2rem;
@@ -536,7 +536,7 @@ div.card:hover {
 div.company-card--top:hover,
 div.starter-card--top:hover,
 div.advanced-card--top:hover {
-    background: linear-gradient(to right, #E028A2, #F0086B);
+    background: linear-gradient(to right, #432e34, #f00823);
     cursor: pointer;
 }
 
@@ -569,7 +569,7 @@ div.card ul {
     border-radius: 13rem;
     padding: 1.3rem 6rem;
     color: #fff;
-    background: linear-gradient(to right top, #E028A2, #F0086B);
+    background: linear-gradient(to right, #432e34, #f00823);
     font-size: 1.5rem;
     text-transform: uppercase;
     cursor: pointer;
