@@ -116,7 +116,7 @@ div#hero {
 }
 
 div#main-hero {
-    background: url(img/5.jpg);
+    background: url(../img/5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
