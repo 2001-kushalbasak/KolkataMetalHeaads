@@ -46,7 +46,7 @@ body {
     overflow-x: hidden;
     /*cursor: url(../img/svg/cursor.svg),
         auto; */
-    background-image: url('https://images.pexels.com/photos/1727280/pexels-photo-1727280.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1200');
+    background-image: linear-gradient(#4d3ab5,black,rgba(143, 160, 69, 0.65),black);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -132,7 +132,7 @@ div.call-circle {
     width: 10rem;
     height: 10rem;
     border-radius: 50%;
-    background: linear-gradient(to right, #432e34, #F0086B);
+    background: linear-gradient(red, blue,yellow);
     color: #fff;
     font-size: 10px;
     display: flex;
@@ -353,7 +353,7 @@ li.cards_item:hover {
 
 section#performers {
     padding: 5rem 0;
-    background-image: url('https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/08/03/Pictures/_aab00888-599b-11e6-92e9-543a978214ab.jpg');
+    background-image: url('../img/12.jpg');
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -423,7 +423,7 @@ div.special-artist-container img {
 /* Gallery */
 
 section#gallery {
-    background: url('https://bestbengal.info/wp-content/uploads/2021/11/maxresdefault-6-e1500982208153-1280x720-1-1078x516.jpg') no-repeat center;
+    background: url('../img/13.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     padding: 4rem 0;
